@@ -2,6 +2,3 @@ Running: xsim.dir/SevenSegTest_behav/xsimk -simmode gui -wdb SevenSegTest_behav.
 Design successfully loaded
 Design Loading Memory Usage: 392932 KB (Peak: 393052 KB)
 Design Loading CPU Usage: 1120 ms
-Simulation completed
-Simulation Memory Usage: 474928 KB (Peak: 532200 KB)
-Simulation CPU Usage: 1130 ms
