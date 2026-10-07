@@ -28,8 +28,11 @@ module Top7seg(
     );
         wire [6:0] D;
         
-        assign seg = ~D;
+        wire NAN =sw[3]&(sw[2]|sw[1]);
+        
+        assign seg = ~(D&~{7{NAN}});
         assign an = ~sw[7:4];
+        
     
         Assign7Seg S1(
 //        SevenSegmentAssign S1(
