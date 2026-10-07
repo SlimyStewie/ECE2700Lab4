@@ -1,0 +1,8 @@
+0.7
+2020.2
+Dec 15 2024
+09:04:49
+/home/a02488494/Lab4/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+/home/a02488494/Lab4/project_1/project_1.srcs/sim_1/new/SevenSegTest.v,1791397752,verilog,,,,SevenSegTest,,,,,,,,
+/home/a02488494/Lab4/project_1/project_1.srcs/sources_1/new/Assign7Seg.v,1791399625,verilog,,/home/a02488494/Lab4/project_1/project_1.srcs/sources_1/new/Top7seg.v,,Assign7Seg,,,,,,,,
+/home/a02488494/Lab4/project_1/project_1.srcs/sources_1/new/Top7seg.v,1791396696,verilog,,/home/a02488494/Lab4/project_1/project_1.srcs/sim_1/new/SevenSegTest.v,,Top7seg,,,,,,,,
